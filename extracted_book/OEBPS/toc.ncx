@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="bookid"/>
+      <meta name="dtb:depth" content="0"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UnKnown</text>
+   </docTitle>
+   <navMap>
+     <navPoint id="id1" playOrder="1">
+       <navLabel>
+         <text>自序</text>
+       </navLabel>
+       <content src="text00000.html"/>
+     </navPoint>
+     <navPoint id="id2" playOrder="2">
+       <navLabel>
+         <text>目录</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id3" playOrder="3">
+       <navLabel>
+         <text>前言</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id4" playOrder="4">
+       <navLabel>
+         <text>一 神和鬼的问题</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id5" playOrder="5">
+       <navLabel>
+         <text>二 有关人的问题</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_4"/>
+     <navPoint id="id6" playOrder="6">
+       <navLabel>
+         <text>(一)人有灵魂</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id7" playOrder="7">
+       <navLabel>
+         <text>(二)人有个性</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id8" playOrder="8">
+       <navLabel>
+         <text>(三)人有本性</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_7"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id9" playOrder="9">
+       <navLabel>
+         <text>三 灵与肉的斗争和统一</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_8"/>
+     <navPoint id="id10" playOrder="10">
+       <navLabel>
+         <text>(一)灵与肉既有矛盾，必有斗争;经过斗争，必有统一</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id11" playOrder="11">
+       <navLabel>
+         <text>(二)灵与肉的统一</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id12" playOrder="12">
+       <navLabel>
+         <text>(三)灵与肉的斗争中，谁做主?</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_11"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id13" playOrder="13">
+       <navLabel>
+         <text>四 命与天命</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_12"/>
+     <navPoint id="id14" playOrder="14">
+       <navLabel>
+         <text>(一)人生有命</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id15" playOrder="15">
+       <navLabel>
+         <text>(二)命理</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id16" playOrder="16">
+       <navLabel>
+         <text>(三)人能做主吗?</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id17" playOrder="17">
+       <navLabel>
+         <text>(四)命由天定，故称天命</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_16"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id18" playOrder="18">
+       <navLabel>
+         <text>五 万物之灵</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_17"/>
+     </navPoint>
+     <navPoint id="id19" playOrder="19">
+       <navLabel>
+         <text>六 人类的文明</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="id20" playOrder="20">
+       <navLabel>
+         <text>七 人生实苦</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_19"/>
+     </navPoint>
+     <navPoint id="id21" playOrder="21">
+       <navLabel>
+         <text>八 人需要锻炼</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_20"/>
+     </navPoint>
+     <navPoint id="id22" playOrder="22">
+       <navLabel>
+         <text>九 修身之道</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_21"/>
+     </navPoint>
+     <navPoint id="id23" playOrder="23">
+       <navLabel>
+         <text>十 受锻炼的是灵魂</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_22"/>
+     <navPoint id="id24" playOrder="24">
+       <navLabel>
+         <text>（一）人受锻炼</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_23"/>
+     </navPoint>
+     <navPoint id="id25" playOrder="25">
+       <navLabel>
+         <text>(二)在肉体和灵魂之间，</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_24"/>
+     </navPoint>
+     <navPoint id="id26" playOrder="26">
+       <navLabel>
+         <text>(三)锻炼的成绩</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_25"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id27" playOrder="27">
+       <navLabel>
+         <text>十一 人生的价值</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_26"/>
+     </navPoint>
+     <navPoint id="id28" playOrder="28">
+       <navLabel>
+         <text>结束语</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_27"/>
+     </navPoint>
+     <navPoint id="id29" playOrder="29">
+       <navLabel>
+         <text>注释</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_28"/>
+     <navPoint id="id30" playOrder="30">
+       <navLabel>
+         <text>一 阿菊闯祸</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_29"/>
+     </navPoint>
+     <navPoint id="id31" playOrder="31">
+       <navLabel>
+         <text>二 温德先生爬树</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_30"/>
+     </navPoint>
+     <navPoint id="id32" playOrder="32">
+       <navLabel>
+         <text>三 劳神父</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_31"/>
+     </navPoint>
+     <navPoint id="id33" playOrder="33">
+       <navLabel>
+         <text>四 记比邻双鹊</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_32"/>
+     </navPoint>
+     <navPoint id="id34" playOrder="34">
+       <navLabel>
+         <text>五 三叔叔的恋爱</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_33"/>
+     </navPoint>
+     <navPoint id="id35" playOrder="35">
+       <navLabel>
+         <text>六 孔夫子的夫人</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_34"/>
+     </navPoint>
+     <navPoint id="id36" playOrder="36">
+       <navLabel>
+         <text>七 《论语》趣</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_35"/>
+     </navPoint>
+     <navPoint id="id37" playOrder="37">
+       <navLabel>
+         <text>八 镜中人</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_36"/>
+     </navPoint>
+     <navPoint id="id38" playOrder="38">
+       <navLabel>
+         <text>九 他是否知道自己骗人?</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_37"/>
+     </navPoint>
+     <navPoint id="id39" playOrder="39">
+       <navLabel>
+         <text>十 穷苦人三则</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_38"/>
+     </navPoint>
+     <navPoint id="id40" playOrder="40">
+       <navLabel>
+         <text>十一 胡思乱想</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_39"/>
+     </navPoint>
+     <navPoint id="id41" playOrder="41">
+       <navLabel>
+         <text>十二 她的自述</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_40"/>
+     </navPoint>
+     <navPoint id="id42" playOrder="42">
+       <navLabel>
+         <text>十三 韩平原的命</text>
+       </navLabel>
+       <content src="text00000.html#sigil_toc_id_41"/>
+     </navPoint>
+     </navPoint>
+   </navMap>
+</ncx>
